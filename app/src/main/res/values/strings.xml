@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Pablo</string>
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="login_button">دخول</string>
+    <string name="register_button">إنشاء حساب جديد</string>
+    <string name="back_button">رجوع</string>
+    <string name="email_hint">البريد الإلكتروني</string>
+    <string name="password_hint">كلمة المرور</string>
+    <string name="footer_text">© 2026 Pablo. جميع الحقوق محفوظة</string>
+    <string name="register_title">إنشاء حساب جديد</string>
+    <string name="name_hint">الاسم الكامل</string>
+    <string name="confirm_password_hint">تأكيد كلمة المرور</string>
+    <string name="welcome_text">أهلاً وسهلاً بك</string>
+    <string name="profile_button">الملف الشخصي</string>
+    <string name="settings_button">الإعدادات</string>
+    <string name="logout_button">تسجيل الخروج</string>
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="profile_text">معلومات الملف الشخصي</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="notification_label">تفعيل الإشعارات</string>
+    <string name="dark_mode_label">الوضع الليلي</string>
+    <string name="save_button">حفظ الإعدادات</string>
 </resources>
